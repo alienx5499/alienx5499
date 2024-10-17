@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ### 🌟 Let's Connect!
 - 🔗 [GitHub](https://github.com/alienx5499)
-- 💼 [LinkedIn](https://www.linkedin.com/in/prabalpatra/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prabalpatra5499/)
 
 Feel free to explore my repositories and contributions, and let's build something awesome together!
 
