@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Prabal Patra (AlienX5499)
 
+![Bar Graph GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open-source projects. Here's a glimpse of my activity and achievements:
 
 ---
@@ -31,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ### 🌟 Let's Connect!
 - 🔗 [GitHub](https://github.com/alienx5499)
-- 💼 [LinkedIn](https://www.linkedin.com/in/prabalpatra5499/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prabalpatra/)
 
 Feel free to explore my repositories and contributions, and let's build something awesome together!
 
