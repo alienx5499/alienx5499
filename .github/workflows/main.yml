@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Snake Contribution
 on:
   schedule: 
     - cron: "* */12 * * *" # execute every 12 hours
