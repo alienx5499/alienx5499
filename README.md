@@ -44,6 +44,10 @@ Feel free to explore my repositories and contributions, and let's build somethin
 
 ---
 
+  ![Snake animation](https://github.com/alienx5499/alienx5499/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <!---
 alienx5499/alienx5499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
