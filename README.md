@@ -45,6 +45,7 @@ Feel free to explore my repositories and contributions, and let's build somethin
 ---
 
   ![Snake animation](https://github.com/alienx5499/alienx5499/blob/output/github-contribution-grid-snake.svg)
+*This animation visualizes my GitHub contributions over time, represented as a snake game.*
 
 ---
 
