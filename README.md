@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ---
 
-![GitHub Profile Views Counter](https://user-images.githubusercontent.com/1849174/87816378-dfce8480-c86f-11ea-9ac0-2f7907e1d9d4.png)
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?alienx5499=your-github-alienx5499&color=green)
 
 ### 🚀 GitHub Stats:
 ![Prabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=alienx5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
