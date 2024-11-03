@@ -29,7 +29,26 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ---
 
 ### 🎖️ Holopin Badges:
-[![Prabal's Holopin board](https://holopin.me/alienx5499)](https://holopin.io/@alienx5499)
+<details>
+ <summary><b>Click to view badges</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <a href="https://holopin.io/@alienx5499">
+    <img src="https://holopin.me/alienx5499" />
+  </a>
+</div>
+</details>
+
+---
+
+### 🪶 GSSOC(24) Badges:
+<details>
+ <summary><b>Click to view badges</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  </a>
+</div>
+</details>
 
 ---
 
