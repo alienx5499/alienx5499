@@ -28,6 +28,55 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ---
 
+### 🛠️ Tools & Technology
+
+<table align="center" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="55" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=googlecloud" alt="icon" width="55" height="55" />
+      <br>Google Cloud
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 GITHUB CONTRIBUTION GRAPH:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alienx5499&theme=synthwave-84&true&hide_border=true" />
+</div>
+
+
+---
+
 ### 🎖️ Holopin Badges:
 <details>
  <summary><b>Click to view badges</b></summary><br>
