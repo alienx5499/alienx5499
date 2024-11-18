@@ -19,11 +19,12 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ---
 
 ### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=alienx5499&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alienx5499&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-
+### 📊 Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alienx5499&layout=compact&theme=onedark)](https://github.com/alienx5499/github-readme-stats)
 
 ---
 
