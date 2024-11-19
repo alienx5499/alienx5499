@@ -109,11 +109,22 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ### 🌟 Let's Connect!
 <div>
-  <a href="https://github.com/alienx5499" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-</a>
+  <a href="https://x.com/alienx5499" target="_blank">
+    <img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=black" target="_blank">
+  </a>
 </div>
-  <a href="https://www.linkedin.com/in/prabalpatra5499" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<div>
+  <a href="https://github.com/alienx5499" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<div>
+  <a href="https://www.linkedin.com/in/prabalpatra5499" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
 
 
 Feel free to explore my repositories and contributions, and let's build something awesome together!
