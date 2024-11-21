@@ -2,7 +2,7 @@
 
 ![Bar Graph GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open-source projects. Here's a glimpse of my activity and achievements:
+Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edge technologies, and contributing to open-source projects. Here's a glimpse of my activity and achievements:
 
 ---
 
