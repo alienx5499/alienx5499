@@ -33,35 +33,47 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="icon" width="55" height="55" />
       <br>HTML
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="icon" width="55" height="55" />
       <br>CSS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="55" height="55" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" alt="icon" width="55" height="55" />
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="icon" width="55" height="55" />
+      <br>C
+    </td>
+    <td align="center" width="90">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="icon" width="55" height="55" />
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="icon" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="icon" width="55" height="55" />
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=googlecloud" alt="icon" width="55" height="55" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=dart" alt="icon" width="55" height="55" />
+      <br>Dart
+    </td>
+    <td align="center" width="90">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=go" alt="icon" width="55" height="55" />
+      <br>Go
+    </td>
+    <td align="center" width="90">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecloud" alt="icon" width="55" height="55" />
       <br>Google Cloud
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="icon" width="55" height="55" />
       <br>Git
     </td>
   </tr>
