@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 ---
 
 ### 📊 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alienx5499&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alienx5499&layout=compact&theme=radical)
 
 ---
 
