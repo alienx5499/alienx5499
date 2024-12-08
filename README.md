@@ -30,11 +30,6 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 
 
 ### 🛠️ Tools & Technology
-
-
-<details>
-  <summary><b>Click to View Tools & Technology</b></summary><br>
-
 <table align="center" class="table table-dark">
   <tr>
     <td align="center" width="90">
@@ -68,33 +63,6 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
       </a>
     </td>
     <td align="center" width="90">
-      <a href="https://en.cppreference.com/w/c">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="C" width="55" height="55" />
-        <br><b>C</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://en.cppreference.com/w/cpp">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++" width="55" height="55" />
-        <br><b>C++</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.python.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python" width="55" height="55" />
-        <br><b>Python</b>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.java.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="Java" width="55" height="55" />
-        <br><b>Java</b>
-      </a>
-    </td>
-    <td align="center" width="90">
       <a href="https://dart.dev/">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=dart" alt="Dart" width="55" height="55" />
         <br><b>Dart</b>
@@ -112,6 +80,33 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
         <br><b>Google Cloud</b>
       </a>
     </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <a href="https://en.cppreference.com/w/c">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="C" width="55" height="55" />
+        <br><b>C</b>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://en.cppreference.com/w/cpp">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++" width="55" height="55" />
+        <br><b>C++</b>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://www.python.org/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python" width="55" height="55" />
+        <br><b>Python</b>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://www.java.com/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="Java" width="55" height="55" />
+        <br><b>Java</b>
+      </a>
+    </td>
     <td align="center" width="90">
       <a href="https://git-scm.com/">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" width="55" height="55" />
@@ -120,9 +115,6 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
     </td>
   </tr>
 </table>
-
-</details>
-
 
 ---
 
