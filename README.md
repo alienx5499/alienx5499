@@ -6,25 +6,25 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 
 ---
 
-![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=alienx5499)
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=AlienX5499)
 
 ### 🚀 GitHub Stats:
-![Prabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=alienx5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
+![Prabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlienX5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
 
 ---
 
 ### 🔥 Streak Stats:
-[![Prabal's GitHub Streak](https://streak-stats.demolab.com?user=alienx5499&theme=radical)](https://git.io/streak-stats)
+[![Prabal's GitHub Streak](https://streak-stats.demolab.com?user=AlienX5499&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=alienx5499&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlienX5499&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📊 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alienx5499&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienX5499&layout=compact&theme=radical)
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 
 ### 📈 GITHUB CONTRIBUTION GRAPH:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alienx5499&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlienX5499&theme=synthwave-84&true&hide_border=true" />
 </div>
 
 
@@ -130,8 +130,8 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 <details>
  <summary><b>Click to view badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://holopin.io/@alienx5499">
-    <img src="https://holopin.me/alienx5499" />
+  <a href="https://holopin.io/@AlienX5499">
+    <img src="https://holopin.me/AlienX5499" />
   </a>
 </div>
 </details>
@@ -142,7 +142,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 <details>
  <summary><b>Click to view badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<!--   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=alienx5499"> -->
+<!--   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=AlienX5499"> -->
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
@@ -158,13 +158,13 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 
 ### 🌟 Let's Connect!
 <div>
-  <a href="https://x.com/alienx5499" target="_blank">
+  <a href="https://x.com/AlienX5499" target="_blank">
     <img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=black" target="_blank">
   </a>
 </div>
 
 <div>
-  <a href="https://github.com/alienx5499" target="_blank">
+  <a href="https://github.com/AlienX5499" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
 </div>
@@ -189,6 +189,6 @@ Feel free to explore my repositories and contributions, and let's build somethin
 ---
 
 <!---
-alienx5499/alienx5499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AlienX5499/AlienX5499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
