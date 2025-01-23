@@ -195,10 +195,7 @@ Feel free to explore my repositories and contributions, and let's build somethin
 
 ### 💖 Support My Work:
 If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! Your support keeps the passion alive for creating awesome projects. 😊  
-
-[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%23EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AlienX5499)
-
-<!-- Buy Me a Coffee Button -->
+[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%23EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/alienx5499)  
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/alienx5499)
 
 ---
