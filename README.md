@@ -193,6 +193,12 @@ Feel free to explore my repositories and contributions, and let's build somethin
 
 ---
 
+### 💖 Support My Work:
+If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! Your support keeps the passion alive for creating awesome projects. 😊  
+
+[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%23EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AlienX5499)
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <img alt="github-snake" src="dist/github-snake.svg" />
