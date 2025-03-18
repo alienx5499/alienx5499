@@ -57,6 +57,12 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
       </a>
     </td>
     <td align="center" width="90">
+      <a href="https://reactjs.org/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React.js" width="55" height="55" />
+        <br><b>React.js</b>
+      </a>
+    </td>
+    <td align="center" width="90">
       <a href="https://reactnative.dev/">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" alt="React Native" width="55" height="55" />
         <br><b>React Native</b>
@@ -74,15 +80,15 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
         <br><b>Go</b>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="90">
       <a href="https://cloud.google.com/">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecloud" alt="Google Cloud" width="55" height="55" />
         <br><b>Google Cloud</b>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="90">
       <a href="https://en.cppreference.com/w/c">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="C" width="55" height="55" />
@@ -111,6 +117,18 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
       <a href="https://git-scm.com/">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" width="55" height="55" />
         <br><b>Git</b>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://developer.apple.com/swift/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=swift" alt="Swift" width="55" height="55" />
+        <br><b>Swift</b>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://tailwindcss.com/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="Tailwind CSS" width="55" height="55" />
+        <br><b>Tailwind CSS</b>
       </a>
     </td>
   </tr>
