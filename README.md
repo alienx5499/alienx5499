@@ -153,6 +153,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
     <a href="https://leetcode.com/AlienX99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/AlienX99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/AlienX99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202504.gif" alt="jyot" height="100" width="100" /></a>
+    <a href="https://leetcode.com/AlienX99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202505.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/AlienX99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/AlienX99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="100" width="100" /></a>
   </p>
