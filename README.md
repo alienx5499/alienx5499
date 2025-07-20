@@ -132,8 +132,22 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
       </a>
     </td>
   </tr>
-</table>
 
+  <tr>
+    <td align="center" width="90">
+      <a href="https://soliditylang.org/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity" alt="Solidity" width="55" height="55" />
+        <br><b>Solidity</b>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://www.rust-lang.org/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=rust" alt="Rust" width="55" height="55" />
+        <br><b>Rust</b>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📈 GITHUB CONTRIBUTION GRAPH:
