@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 
 ---
 
-<!-- ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=AlienX5499) -->
+<!-- Hidden Komarev counter -->
+<!-- <img src="https://komarev.com/ghpvc/?username=AlienX5499" /> -->
 
 ![GitHub Profile Views Counter](https://count.getloli.com/@alienx5499?name=alienx5499&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
