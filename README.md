@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 ![GitHub Profile Views Counter](https://count.getloli.com/@alienx5499?name=alienx5499&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ### 🚀 GitHub Stats:
-![Prabal's GitHub stats](https://camo.githubusercontent.com/a67d0676a55901c3dd7a1c7955cd06a763646c05/aHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLWFsaWVueDU0OTkudmVyY2VsLmFwcC9hcGk_dXNlcm5hbWU9QWxpZW5YNTQ5OSZzaG93PXJldmlld3MsZGlzY3Vzc2lvbnNfc3RhcnRlZCxkaXNjdXNzaW9uc19hbnN3ZXJlZCxwcnNfbWVyZ2VkLHByc19tZXJnZWRfcGVyY2VudGFnZV9pY29ucz10cnVlJnRoZW1lPXJhZGljYWw)
+![Prabal's GitHub stats](https://github-readme-stats-alienx5499.vercel.app/api?username=AlienX5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
 
 ---
 
@@ -21,12 +21,12 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 ---
 
 ### 🏆 GitHub Trophies:
-![trophy](https://camo.githubusercontent.com/8072c2c4eb83e923fc42fea904c0c392a816f1b5/aHR0cHM6Ly9naXRodWItcHJvZmlsZS10cm9waHktYWxpZW54NTQ5OS52ZXJjZWwuYXBwLz91c2VybmFtZT1hbGllbng1NDk5JnRoZW1lPXJhZGljYWw)
+![trophy](https://github-profile-trophy-alienx5499.vercel.app/?username=alienx5499&theme=radical)
 
 ---
 
 ### 📊 Top Languages:
-![Top Langs](https://camo.githubusercontent.com/dad7f716cc1bc12559d540d90730301e7e6873ef/aHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLWFsaWVueDU0OTkudmVyY2VsLmFwcC9hcGkvdG9wLWxhbmdzLz91c2VybmFtZT1BbGllbng1NDk5JmxheW91dD1jb21wYWN0JnRoZW1lPXJhZGljYWw)
+![Top Langs](https://github-readme-stats-alienx5499.vercel.app/api/top-langs/?username=Alienx5499&layout=compact&theme=radical)
 
 ---
 
