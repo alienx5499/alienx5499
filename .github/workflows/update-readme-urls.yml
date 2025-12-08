@@ -5,8 +5,6 @@ on:
     - cron: '0 0 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:
   push:
-    paths:
-      - 'README.md'
     branches:
       - main
 
@@ -66,7 +64,7 @@ jobs:
           let readme = fs.readFileSync('README.md', 'utf8');
           const originalReadme = readme;
           
-          // Replace stats URLs
+          // Replace stats URLs (handles both placeholders and existing Camo URLs)
           if (statsUrl) {
             const statsFullUrl = `${statsUrl}/api?username=AlienX5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical`;
             const topLangsFullUrl = `${statsUrl}/api/top-langs/?username=Alienx5499&layout=compact&theme=radical`;
@@ -74,24 +72,27 @@ jobs:
             const statsCamo = generateCamoUrl(statsFullUrl);
             const topLangsCamo = generateCamoUrl(topLangsFullUrl);
             
+            // Replace placeholder or existing Camo URL for stats (in image tag)
             readme = readme.replace(
-              /VERCEL_STATS_URL_PLACEHOLDER\/api\?username=AlienX5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical/g,
-              statsCamo
+              /!\[Prabal's GitHub stats\]\((VERCEL_STATS_URL_PLACEHOLDER\/api\?username=AlienX5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical|https:\/\/camo\.githubusercontent\.com\/[a-f0-9]+\/[A-Za-z0-9_-]+)\)/g,
+              `![Prabal's GitHub stats](${statsCamo})`
             );
+            // Replace placeholder or existing Camo URL for top languages (in image tag)
             readme = readme.replace(
-              /VERCEL_STATS_URL_PLACEHOLDER\/api\/top-langs\/\?username=Alienx5499&layout=compact&theme=radical/g,
-              topLangsCamo
+              /!\[Top Langs\]\((VERCEL_STATS_URL_PLACEHOLDER\/api\/top-langs\/\?username=Alienx5499&layout=compact&theme=radical|https:\/\/camo\.githubusercontent\.com\/[a-f0-9]+\/[A-Za-z0-9_-]+)\)/g,
+              `![Top Langs](${topLangsCamo})`
             );
           }
           
-          // Replace trophy URL
+          // Replace trophy URL (handles both placeholders and existing Camo URLs)
           if (trophyUrl) {
             const trophyFullUrl = `${trophyUrl}/?username=alienx5499&theme=radical`;
             const trophyCamo = generateCamoUrl(trophyFullUrl);
             
+            // Replace placeholder or existing Camo URL for trophy (in image tag)
             readme = readme.replace(
-              /VERCEL_TROPHY_URL_PLACEHOLDER\/\?username=alienx5499&theme=radical/g,
-              trophyCamo
+              /!\[trophy\]\((VERCEL_TROPHY_URL_PLACEHOLDER\/\?username=alienx5499&theme=radical|https:\/\/camo\.githubusercontent\.com\/[a-f0-9]+\/[A-Za-z0-9_-]+)\)/g,
+              `![trophy](${trophyCamo})`
             );
           }
           
