@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 ![GitHub Profile Views Counter](https://count.getloli.com/@alienx5499?name=alienx5499&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ### 🚀 GitHub Stats:
-![Prabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlienX5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
+![Prabal's GitHub stats](VERCEL_STATS_URL_PLACEHOLDER/api?username=AlienX5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
 
 ---
 
@@ -21,12 +21,12 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 ---
 
 ### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlienX5499&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](VERCEL_TROPHY_URL_PLACEHOLDER/?username=alienx5499&theme=radical)
 
 ---
 
 ### 📊 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alienx5499&layout=compact&theme=radical)
+![Top Langs](VERCEL_STATS_URL_PLACEHOLDER/api/top-langs/?username=Alienx5499&layout=compact&theme=radical)
 
 ---
 
