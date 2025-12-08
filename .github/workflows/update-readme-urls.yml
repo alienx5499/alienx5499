@@ -72,14 +72,14 @@ jobs:
             const statsCamo = generateCamoUrl(statsFullUrl);
             const topLangsCamo = generateCamoUrl(topLangsFullUrl);
             
-            // Replace placeholder or existing Camo URL for stats (in image tag)
+            // Replace any URL (placeholder or Camo) in the stats image tag
             readme = readme.replace(
-              /!\[Prabal's GitHub stats\]\((VERCEL_STATS_URL_PLACEHOLDER\/api\?username=AlienX5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical|https:\/\/camo\.githubusercontent\.com\/[a-f0-9]+\/[A-Za-z0-9_-]+)\)/g,
+              /!\[Prabal's GitHub stats\]\([^)]+\)/g,
               `![Prabal's GitHub stats](${statsCamo})`
             );
-            // Replace placeholder or existing Camo URL for top languages (in image tag)
+            // Replace any URL (placeholder or Camo) in the top languages image tag
             readme = readme.replace(
-              /!\[Top Langs\]\((VERCEL_STATS_URL_PLACEHOLDER\/api\/top-langs\/\?username=Alienx5499&layout=compact&theme=radical|https:\/\/camo\.githubusercontent\.com\/[a-f0-9]+\/[A-Za-z0-9_-]+)\)/g,
+              /!\[Top Langs\]\([^)]+\)/g,
               `![Top Langs](${topLangsCamo})`
             );
           }
@@ -89,9 +89,9 @@ jobs:
             const trophyFullUrl = `${trophyUrl}/?username=alienx5499&theme=radical`;
             const trophyCamo = generateCamoUrl(trophyFullUrl);
             
-            // Replace placeholder or existing Camo URL for trophy (in image tag)
+            // Replace any URL (placeholder or Camo) in the trophy image tag
             readme = readme.replace(
-              /!\[trophy\]\((VERCEL_TROPHY_URL_PLACEHOLDER\/\?username=alienx5499&theme=radical|https:\/\/camo\.githubusercontent\.com\/[a-f0-9]+\/[A-Za-z0-9_-]+)\)/g,
+              /!\[trophy\]\([^)]+\)/g,
               `![trophy](${trophyCamo})`
             );
           }
@@ -117,4 +117,3 @@ jobs:
           add: 'README.md'
           push: true
           default_author: github_actor
-          skip_gpg_sign: true
