@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 ---
 
 ### 🔥 Streak Stats:
-[![Prabal's GitHub Streak](https://streak-stats.demolab.com?user=AlienX5499&theme=radical)](https://git.io/streak-stats)
+[![Prabal's GitHub Streak](https://github-readme-streak-stats-alienx5499.vercel.app/?user=AlienX5499&theme=radical)](https://git.io/streak-stats)
 
 ---
 
