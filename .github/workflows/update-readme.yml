@@ -1,0 +1,74 @@
+name: Update README Cache Buster
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-readme-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate timestamp
+        id: ts
+        run: echo "value=$(date +%s)" >> "$GITHUB_OUTPUT"
+
+      - name: Update cache-busting query parameter in README
+        env:
+          TIMESTAMP: ${{ steps.ts.outputs.value }}
+        run: |
+          python - <<'PY'
+          import re
+          from pathlib import Path
+
+          readme = Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+          timestamp = str(__import__("os").environ["TIMESTAMP"])
+
+          # Target only GitHub stats-style dynamic endpoints.
+          target_patterns = (
+              "github-readme-stats",
+              "github-readme-streak-stats",
+              "github-profile-trophy",
+              "vercel.app/graph?username=",
+          )
+
+          url_re = re.compile(r"https?://[^\s)\"'>]+")
+
+          def update_url(url: str) -> str:
+              if not any(p in url for p in target_patterns):
+                  return url
+
+              if re.search(r"([?&])v=[^&\\s)\"'>]*", url):
+                  return re.sub(
+                      r"([?&])v=[^&\\s)\"'>]*",
+                      lambda m: f"{m.group(1)}v={timestamp}",
+                      url,
+                      count=1,
+                  )
+
+              separator = "&" if "?" in url else "?"
+              return f"{url}{separator}v={timestamp}"
+
+          updated = url_re.sub(lambda m: update_url(m.group(0)), content)
+          readme.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Commit changes if needed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No README changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "chore: refresh README stats cache buster"
+          git push origin main
