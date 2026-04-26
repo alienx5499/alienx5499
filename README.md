@@ -11,22 +11,22 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 ![GitHub Profile Views Counter](https://count.getloli.com/@alienx5499?name=alienx5499&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ### 🚀 GitHub Stats:
-![Prabal's GitHub stats](https://github-readme-stats-alienx5499.vercel.app/api?username=alienx5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical&v=1777084208)
+![Prabal's GitHub stats](https://github-readme-stats-alienx5499.vercel.app/api?username=alienx5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical&v=1777171585)
 
 ---
 
 ### 🔥 Streak Stats:
-[![Prabal's GitHub Streak](https://github-readme-streak-stats-alienx5499.vercel.app/?user=alienx5499&theme=radical&v=1777084208)](https://git.io/streak-stats)
+[![Prabal's GitHub Streak](https://github-readme-streak-stats-alienx5499.vercel.app/?user=alienx5499&theme=radical&v=1777171585)](https://git.io/streak-stats)
 
 ---
 
 ### 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy-alienx5499.vercel.app/?username=alienx5499&theme=radical&v=1777084208)
+![trophy](https://github-profile-trophy-alienx5499.vercel.app/?username=alienx5499&theme=radical&v=1777171585)
 
 ---
 
 ### 📊 Top Languages:
-![Top Langs](https://github-readme-stats-alienx5499.vercel.app/api/top-langs/?username=alienx5499&layout=compact&theme=radical&langs_count=8&v=1777084208)
+![Top Langs](https://github-readme-stats-alienx5499.vercel.app/api/top-langs/?username=alienx5499&layout=compact&theme=radical&langs_count=8&v=1777171585)
 
 ---
 
@@ -155,7 +155,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 
 ### 📈 GITHUB CONTRIBUTION GRAPH:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlienX5499&theme=synthwave-84&true&hide_border=true&v=1777084208" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlienX5499&theme=synthwave-84&true&hide_border=true&v=1777171585" />
 </div>
 
 
