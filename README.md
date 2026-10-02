@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 ---
 
 ### 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy-alienx5499.vercel.app/?username=alienx5499&theme=radical&v=1790914862)
+![trophy](https://github-profile-trophy-alienx5499.vercel.app/?username=alienx5499&theme=radical&title=-Experience)
 
 ---
 
