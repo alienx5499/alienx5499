@@ -1,229 +1,87 @@
-# 👋 Hello, I'm Prabal Patra
+Hi, I am Prabal, a **Systems and Blockchain Engineer** building p2p protocols, Bitcoin Lightning infrastructure, cryptographic protocols, and performance-critical tooling.
 
-![Bar Graph GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<p align="center">
+  <img src="https://count.getloli.com/@alienx5499?name=alienx5499&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="GitHub Profile Views Counter" height="105" />
+</p>
 
-Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edge technologies, and contributing to open-source projects. Here's a glimpse of my activity and achievements:
+### Open Source, Engineering and Programs
 
----
+- Contributor to **[stable-channels](https://github.com/toneloc/stable-channels)** ([Summer of Bitcoin 2026](https://www.summerofbitcoin.org/)), building peer-to-peer synthetic dollar channels on the Lightning Network with Rust and LDK
+- Creator of **[SortVision](https://github.com/alienx5499/SortVision)**, a real-time sorting algorithm visualizer with **230+ GitHub stars**
+- Contributor to **[drand](https://github.com/drand/drand)** and **[tlock](https://github.com/drand/tlock)**, implementing practical timelock encryption and verifiable threshold randomness in Go
+- **5x Hackathon Winner** across Web3 and distributed systems, including Unfold '24 Runner-Up at Rabble
+- Graduate of **Ackee Blockchain** (School of Solana), **Turbin3** (Builders Cohort), and **Rektoff** security tracks
 
-<img src="https://komarev.com/ghpvc/?username=AlienX5499" width="0" height="0" style="visibility:hidden;" />
+<div align="center">
 
-![GitHub Profile Views Counter](https://count.getloli.com/@alienx5499?name=alienx5499&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+### Fellowships and Programs
 
-### 🚀 GitHub Stats:
-![Prabal's GitHub stats](https://github-readme-stats-alienx5499.vercel.app/api?username=alienx5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical&v=1791434863)
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
 
----
+<td align="center" width="25%" valign="top">
+<a href="https://www.summerofbitcoin.org/">
+  <img src="https://img.shields.io/badge/SUMMER_OF_BITCOIN-F7931A?style=for-the-badge&logo=bitcoin&logoColor=FFFFFF" height="22" alt="Summer of Bitcoin" />
+</a><br>
+<b>Summer of Bitcoin '26</b><br>
+<sub>Stable Channels</sub>
+</td>
 
-### 🔥 Streak Stats:
-[![Prabal's GitHub Streak](https://github-readme-streak-stats-alienx5499.vercel.app/?user=alienx5499&theme=radical&v=1791434863)](https://git.io/streak-stats)
+<td align="center" width="25%" valign="top">
+<a href="https://ackeeblockchain.com/">
+  <img src="https://img.shields.io/badge/ACKEE-0052FF?style=for-the-badge&logoColor=FFFFFF" height="22" alt="Ackee Blockchain" />
+</a><br>
+<b>Ackee Blockchain</b><br>
+<sub>School of Solana</sub>
+</td>
 
----
+<td align="center" width="25%" valign="top">
+<a href="https://turbin3.com/">
+  <img src="https://img.shields.io/badge/TURBIN3-14F195?style=for-the-badge&logo=solana&logoColor=000000" height="22" alt="Turbin3" />
+</a><br>
+<b>Turbin3</b><br>
+<sub>Builders Cohort</sub>
+</td>
 
-### 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy-alienx5499.vercel.app/?username=alienx5499&theme=radical&title=-Experience&v=1791434863)
+<td align="center" width="25%" valign="top">
+<a href="https://rektoff.xyz/">
+  <img src="https://img.shields.io/badge/REKTOFF-000000?style=for-the-badge&logoColor=FFFFFF" height="22" alt="Rektoff" />
+</a><br>
+<b>Rektoff</b><br>
+<sub>Security Track</sub>
+</td>
 
----
-
-### 📊 Top Languages:
-![Top Langs](https://github-readme-stats-alienx5499.vercel.app/api/top-langs/?username=alienx5499&layout=compact&theme=radical&langs_count=8&v=1791434863)
-
----
-
-
-### 🛠️ Tools & Technology
-<table align="center" class="table table-dark">
-  <tr>
-    <td align="center" width="90">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" width="55" height="55" />
-        <br><b>HTML</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS" width="55" height="55" />
-        <br><b>CSS</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" alt="JavaScript" width="55" height="55" />
-        <br><b>JavaScript</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" alt="TypeScript" width="55" height="55" />
-        <br><b>TypeScript</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://reactjs.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React.js" width="55" height="55" />
-        <br><b>React.js</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://reactnative.dev/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" alt="React Native" width="55" height="55" />
-        <br><b>React Native</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://dart.dev/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=dart" alt="Dart" width="55" height="55" />
-        <br><b>Dart</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://go.dev/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=go" alt="Go" width="55" height="55" />
-        <br><b>Go</b>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <a href="https://cloud.google.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecloud" alt="Google Cloud" width="55" height="55" />
-        <br><b>Google Cloud</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://en.cppreference.com/w/c">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="C" width="55" height="55" />
-        <br><b>C</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://en.cppreference.com/w/cpp">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++" width="55" height="55" />
-        <br><b>C++</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.python.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python" width="55" height="55" />
-        <br><b>Python</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.java.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="Java" width="55" height="55" />
-        <br><b>Java</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://git-scm.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" width="55" height="55" />
-        <br><b>Git</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://developer.apple.com/swift/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=swift" alt="Swift" width="55" height="55" />
-        <br><b>Swift</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://tailwindcss.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="Tailwind CSS" width="55" height="55" />
-        <br><b>Tailwind CSS</b>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <a href="https://soliditylang.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity" alt="Solidity" width="55" height="55" />
-        <br><b>Solidity</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.rust-lang.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=rust" alt="Rust" width="55" height="55" />
-        <br><b>Rust</b>
-      </a>
-    </td>
-  </tr>
+</tr>
 </table>
 
----
+</div>
 
-### 📈 GITHUB CONTRIBUTION GRAPH:
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,go,c,cpp,swift,ts,solidity,java,spring,py,react,nextjs,nodejs,express,postgres,sqlite,redis,docker,linux,git,githubactions,postman&perline=11" alt="Tech Stack" width="640" />
+  </a>
+</p>
+
+<h3 align="center">Connect and Support</h3>
+
+<p align="center">
+Open to collaborations, systems discussions, and sponsorships for open-source work.
+</p>
+<p align="center">
+<a href="https://0xprabal.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxMmMyLjIxIDAgNC0xLjc5IDQtNHMtMS43OS00LTQtNC00IDEuNzktNCA0IDEuNzkgNCA0IDR6bTAgMmMtMi42NyAwLTggMS4zNC04IDR2MmgxNnYtMmMwLTIuNjYtNS4zMy00LTgtNHoiLz48L3N2Zz4%3D" alt="Portfolio" /></a>&nbsp;
+<a href="https://linkedin.com/in/prabalpatra5499" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>&nbsp;
+<a href="https://x.com/AlienX5499" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
+<a href="https://0xprabal.com/sponsor" target="_blank"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" /></a>
+</p>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlienX5499&theme=synthwave-84&true&hide_border=true&v=1791434863" />
-</div>
-
-
----
-### ⌨️ LeetCode Stats:
-<details>
- <summary><b>Click to view stats</b></summary><br>
-  <p align="center">
-    <a href="https://leetcode.com/alienx99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/alienx99/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/alienx99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/alienx99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/alienx99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/alienx99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202504.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/alienx99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202505.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/alienx99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/alienx99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/alienx99/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="jyot" height="100" width="100" /></a>
-    
-  </p>
-  <p align="center">
-    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AlienX99?theme=radical&font=Nunito&ext=heatmap" />  
-  </p>
-</details>
-
-
----
-
-### 🌟 Let's Connect!
-<div>
-  <a href="https://x.com/AlienX5499" target="_blank">
-    <img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=black" target="_blank">
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/AlienX5499" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-</div>
-
-<div>
-  <a href="https://www.linkedin.com/in/prabalpatra5499" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
-
-
-Feel free to explore my repositories and contributions, and let's build something awesome together!
-
----
-
-### 💖 Support My Work:
-If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! Your support keeps the passion alive for creating awesome projects. 😊  
-[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%23EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/alienx5499)  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/alienx5499)
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="Contribution Snake" src="dist/github-snake-dark.svg" />
 </picture>
 
-
----
-
-<!---
-AlienX5499/AlienX5499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
