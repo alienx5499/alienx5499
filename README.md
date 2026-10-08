@@ -1,7 +1,7 @@
 Hi, I am Prabal, a **Systems and Blockchain Engineer** building p2p protocols, Bitcoin Lightning infrastructure, cryptographic protocols, and performance-critical tooling.
 
 <p align="center">
-  <img src="https://count.getloli.com/@alienx5499?name=alienx5499&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="GitHub Profile Views Counter" height="105" />
+  <img src="https://count.getloli.com/@alienx5499?name=alienx5499&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="GitHub Profile Views Counter" height="105" />
 </p>
 
 ### Open Source, Engineering and Programs
