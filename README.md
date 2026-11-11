@@ -7,7 +7,7 @@ Hi, I am Prabal, a **Systems and Blockchain Engineer** building p2p protocols, B
 ### Open Source, Engineering and Programs
 
 - Contributor to **[stable-channels](https://github.com/toneloc/stable-channels)** ([Summer of Bitcoin 2026](https://www.summerofbitcoin.org/)), building peer-to-peer synthetic dollar channels on the Lightning Network with Rust and LDK
-- Creator of **[SortVision](https://github.com/alienx5499/SortVision)**, a real-time sorting algorithm visualizer with **230+ GitHub stars**
+- Creator of **[SortVision](https://github.com/alienx5499/SortVision)**, a real-time sorting algorithm visualizer with **240+ GitHub stars**
 - Contributor to **[drand](https://github.com/drand/drand)** and **[tlock](https://github.com/drand/tlock)**, implementing practical timelock encryption and verifiable threshold randomness in Go
 - **5x Hackathon Winner** across Web3 and distributed systems, including Unfold '24 Runner-Up at Rabble
 - Graduate of **Ackee Blockchain** (School of Solana), **Turbin3** (Builders Cohort), and **Rektoff** security tracks
